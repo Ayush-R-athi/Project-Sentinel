@@ -16,7 +16,7 @@
 
 ## 📸 Demo
 
-> **Note:** Add your dashboard screenshot here
+
 > 
 > ![Dashboard Screenshot](frontend/src/assets/dashboard-screenshot.png)
 
